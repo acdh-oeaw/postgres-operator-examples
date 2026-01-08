@@ -1,3 +1,8 @@
+# Obsolete
+
+Upstream moved the operator install to the operator repository in pgo 6.0.  
+This means this repository is no longer relevant. It did not contain any customizations anyway.
+
 # Examples for Using [PGO](https://github.com/CrunchyData/postgres-operator), the Postgres Operator from Crunchy Data
 
 This repository contains a collection of installers and examples for deploying, operating and maintaining Postgres clusters using PGO, the Postgres Operator from Crunchy Data as part of [Crunchy Postgres for Kubernetes](https://www.crunchydata.com/products/crunchy-postgresql-for-kubernetes).
